@@ -1,3 +1,5 @@
+![Data Analyst Agent](docs/banner.png)
+
 # Data Analyst Agent
 
 A conversational data-analyst agent built on n8n, Supabase (Postgres), and Google Gemini. Ask
